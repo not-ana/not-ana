@@ -12,12 +12,16 @@
 
 ## 🛠️ My Skills
 
-### 👉Graphic Designing
+### 👉Design
 <p align="left">
   &emsp;
   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
   &emsp;
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
@@ -39,7 +43,6 @@
   	<img alt="Capcut" src="https://img.shields.io/badge/Capcut-%2300C4CC.svg?style=flat&logo=Capcut&logoColor=white"/>
   </a>
  </p>
-
 
  
  ### 👉 Software & Tools
